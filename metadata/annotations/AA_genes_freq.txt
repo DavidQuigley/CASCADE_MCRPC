@@ -1,0 +1,43 @@
+Gene	Pathway	Alt	Chromosome
+AR	DNA-binding TF activity	Signaling receptor binding	ChrX
+AR_enhancer	DNA-binding TF activity	Signaling receptor binding	ChrX
+MYC	DNA-binding TF activity	Signaling receptor binding	Chr8
+MSN	Signaling receptor binding	actin-binding proteins	ChrX
+CCND1	Cell cycle	PI3K-Akt signaling	Chr11
+FGF4	PI3K-Akt signaling	Signaling receptor binding	Chr11
+ARNT	DNA-binding TF activity	Signaling receptor binding	Chr1
+AURKA	Cell cycle	"Chromosome segregation, regulation of PT53 pathway"	Chr20
+CCNE1	Cell cycle	PI3K-Akt signaling	Chr19
+CYP24A1	Other	Cytochrome P450 - arranged by substrate type	Chr20
+DSG3	Other	Cell adhesion	Chr18
+EIF3E	Other	"Translation Initiation, RNA binding and translation initiation factor activity"	Chr8
+FGF3	PI3K-Akt signaling	Signaling receptor binding	Chr11
+HAX1	Other	reorganization of the cortical actin cytoskeleton	Chr1
+HEY1	DNA-binding TF activity	Transcriptional regulation	Chr8
+MCL1	Apoptosis	"Cell cycle, Cell Differentiation"	Chr1
+MLLT11	Apoptosis	Regulation of DNA-templated transcription	Chr1
+MUC4	Signaling receptor binding	"Apoptosis, Cell adhesion"	Chr3
+NCOA2	DNA-binding TF activity	Signaling receptor binding	Chr8
+PRDM14	Transcriptional regulation	"Embryonic stem cell identity, Epigenetic reprogramming"	Chr8
+PTTG1	Cell cycle	"Apoptosis, regulation of PT53 pathway"	Chr5
+SETDB1	Transcriptional regulation	"Histone modifications, Chromatin regulation, Noncanonical Wnt signaling pathway"	Chr1
+TPM3	Other	actin-binding proteins	Chr1
+YWHAZ	DNA-binding TF activity	"Apoptosis, Cell cycle"	Chr7
+ZNF217	DNA-binding TF activity	Transcriptional regulation	Chr20
+CDH2	Wnt Pathway	"Canonical Wnt Pathway, Cell adhesion"	Chr18
+CDK17	Cell cycle	"Cell cycle, Transcriptional regulation"	Chr12
+CDK19	Cell cycle	Transcriptional regulation	Chr6
+CCNB1	Cell cycle	PI3K-Akt signaling	Chr5
+CCNJL	Cell cycle	NA	Chr5
+ETV7	Transcriptional regulation	NA	Chr6
+KRAS	PI3K-Akt signaling	NA	Chr12
+EZH2	Transcriptional regulation	Chromatin regulation	Chr7
+RAB22A	Other	Autophagy	Chr20
+SS18L1	Other	Chromatin organization	Chr20
+PCAT1	Other	 Long non-coding RNA	Chr8
+RSPO2	Wnt Pathway	"mTOR Signaling, Signal Transduction"	Chr8
+RAD21	Cell cycle	"Chromatin Regulation / Acetylation, DNA Damage"	Chr8
+FGF23	PI3K-Akt signaling	Signaling receptor binding	Chr12
+KDM7A	Chromatin Regulation	"Chromatin Regulation, HDMs demethylate histones, DNA Damage"	Chr7
+KMT5B	Chromatin Regulation	"Chromatin Regulation, PKMTs methylate histone lysines, DNA Damage"	Chr11
+CTCFL	DNA-binding TF activity	Transcriptional regulation	Chr20

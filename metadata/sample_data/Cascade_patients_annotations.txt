@@ -1,0 +1,54 @@
+Sample_ID	patient_id	HR_alt	Location	Location_red	HRD_drug	ASI_drug
+CA101-01	CA101	ATM	rib	Bone	PARPi	both
+CA101-03	CA101	ATM	rib	Bone	PARPi	both
+CA101-08	CA101	ATM	prostate	Prostate	PARPi	both
+CA101-11	CA101	ATM	prostate	Prostate	PARPi	both
+CA101-14	CA101	ATM	prostate	Prostate	PARPi	both
+CA101-17	CA101	ATM	prostate	Prostate	PARPi	both
+CA101-21	CA101	ATM	spine	Spine	PARPi	both
+CA101-25	CA101	ATM	spine	Spine	PARPi	both
+CA101-38	CA101	ATM	LN	LN	PARPi	both
+CA101-40	CA101	ATM	LN	LN	PARPi	both
+CA071-01	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-02	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-03	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-04	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-05	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-06	CA071	BRCA2 Germline	LN	LN	platinum	abi
+CA071-07	CA071	BRCA2 Germline	liver	Liver	platinum	abi
+CA071-08	CA071	BRCA2 Germline	liver	Liver	platinum	abi
+CA071-09	CA071	BRCA2 Germline	liver	Liver	platinum	abi
+CA104-01	CA104	BRCA2 Germline	liver	Liver	none	both
+CA104-05	CA104	BRCA2 Germline	liver	Liver	none	both
+CA104-08	CA104	BRCA2 Germline	pelvis	Bone	none	both
+CA104-09	CA104	BRCA2 Germline	LN	LN	none	both
+CA104-10	CA104	BRCA2 Germline	LN	LN	none	both
+CA104-26	CA104	BRCA2 Germline	prostate	Prostate	none	both
+CA104-27	CA104	BRCA2 Germline	prostate	Prostate	none	both
+CA104-28	CA104	BRCA2 Germline	prostate	Prostate	none	both
+CA104-29	CA104	BRCA2 Germline	prostate	Prostate	none	both
+CA104-33	CA104	BRCA2 Germline	lung	Lung	none	both
+CA104-35	CA104	BRCA2 Germline	lung	Lung	none	both
+CA104-40	CA104	BRCA2 Germline	lung	Lung	none	both
+CA104-41	CA104	BRCA2 Germline	liver	Liver	none	both
+CA113-01	CA113	BRCA2 Germline	spine	Spine	both	enz
+CA113-05	CA113	BRCA2 Germline	LN	LN	both	enz
+CA113-10	CA113	BRCA2 Germline	prostate	Prostate	both	enz
+CA113-11	CA113	BRCA2 Germline	prostate	Prostate	both	enz
+CA113-14	CA113	BRCA2 Germline	LN	LN	both	enz
+CA113-18	CA113	BRCA2 Germline	liver	Liver	both	enz
+CA113-20	CA113	BRCA2 Germline	liver	Liver	both	enz
+CA113-25	CA113	BRCA2 Germline	rib	Bone	both	enz
+CA093-04	CA093	BRCA2 Somatic	spine	Spine	PARPi	abi
+CA093-09	CA093	BRCA2 Somatic	brain	Brain	PARPi	abi
+CA093-10	CA093	BRCA2 Somatic	brain	Brain	PARPi	abi
+CA093-11	CA093	BRCA2 Somatic	brain	Brain	PARPi	abi
+CA093-12	CA093	BRCA2 Somatic	brain	Brain	PARPi	abi
+CA108-13	CA108	HR Proficient	bowel	Others	PARPi	enz
+CA108-39	CA108	HR Proficient	spleen	Others	PARPi	enz
+CA108-46	CA108	HR Proficient	diaphragm	Others	PARPi	enz
+CA108-67	CA108	HR Proficient	spine	Spine	PARPi	enz
+CA108-74	CA108	HR Proficient	lung	Lung	PARPi	enz
+CA108-82	CA108	HR Proficient	liver	Liver	PARPi	enz
+CA108-86	CA108	HR Proficient	liver	Liver	PARPi	enz
+CA108-94	CA108	HR Proficient	liver	Liver	PARPi	enz
